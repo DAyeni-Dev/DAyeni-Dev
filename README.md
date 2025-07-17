@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DAyeni-Dev
 - 👀 I’m interested in Learning and growing my tech skills
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on any project that would improve my skills in HTML, CSS, ,JavaScript AND REACT
+- 💞️ I’m looking to collaborate on any project that would improve my skills in HTML, CSS, JavaScript AND REACT
 - 📫 How to reach me
+  
 [Twitter](https://x.com/OraJacob7?t=YPfW_WCnmFa4LXjMeyyHag&s=08)  
 [Instagram](https://www.instagram.com/yourfavoritearewa_yorubababe?igsh=MTd1NWM3bWxmZzhkYw==)  
 [Facebook](https://www.facebook.com/share/14pdpQh8ND/)  
